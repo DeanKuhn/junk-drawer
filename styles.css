@@ -3,22 +3,26 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     --backgroundColor1: rgb(85, 67, 189);
     --backgroundColor2: rgb(63, 23, 128);
-    --titleTextColor: rgb(195, 218, 94);
+    --titleTextColor: rgb(209, 230, 126);
 }
-
-
 
 .sixhundred
 {
     max-width: 600px;
     margin: 5px;
+    
 }
 
 .title
 {
-    color: #c3da5e;
+    color: var(--titleTextColor);
     padding: 10px;
     background: linear-gradient(45deg, var(--backgroundColor1), var(--backgroundColor2));
     border-radius: 10px 5px;
+
+}
+
+.cpp
+{
 
 }
