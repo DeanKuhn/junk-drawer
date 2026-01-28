@@ -1,0 +1,20 @@
+:root
+{
+    --backgroundColor1: rgb(34, 34, 34);
+    --backgroundColor1: rgb(34, 34, 34);
+    --titleTextColor: rgb(195, 218, 94);
+}
+
+
+
+.sixhundred
+{
+    max-width: 600px;
+    padding: 5px;
+}
+
+.title
+{
+    color: #c3da5e;
+    background: linear-gradient(45deg, #000000, #434343);
+}
