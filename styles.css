@@ -1,6 +1,6 @@
 :root
 {
-    font-family: 'trebuchet ms', sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     --backgroundColor1: rgb(85, 67, 189);
     --backgroundColor2: rgb(63, 23, 128);
     --titleTextColor: rgb(195, 218, 94);
@@ -11,7 +11,7 @@
 .sixhundred
 {
     max-width: 600px;
-    padding: 5px;
+    margin: 5px;
 }
 
 .title
