@@ -1,16 +1,24 @@
 {
-"editor.quickSuggestions": {
-    "other": false,
-    "comments": false,
-    "strings": false
-},
-"editor.suggestOnTriggerCharacters": false,
-"editor.acceptSuggestionOnEnter": "off"
-}
-{
-"editor.suggest.showWords": false,
-"editor.suggest.showSnippets": false,
-"editor.suggest.showFunctions": false,
-"editor.suggest.showMethods": false
-
+    "editor.quickSuggestions": {
+        "other": false,
+        "comments": false,
+        "strings": false
+    },
+    "editor.suggestOnTriggerCharacters": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.suggest.showKeywords": false,
+    "editor.suggest.showSnippets": false,
+    "editor.suggest.showWords": false,
+    "editor.suggest.showFunctions": false,
+    "editor.suggest.showMethods": false,
+    "editor.suggest.showVariables": false,
+    "editor.suggest.showClasses": false,
+    "editor.suggest.showModules": false,
+    "editor.suggest.showProperties": false,
+    "editor.suggest.showUnits": false,
+    "editor.suggest.showStructs": false,
+    "editor.suggest.showInterfaces": false,
+    "editor.suggest.showEnums": false,
+    "editor.suggest.showFields": false,
+    "editor.suggest.showConstants": false
 }

@@ -1,7 +1,8 @@
 :root
 {
-    --backgroundColor1: rgb(34, 34, 34);
-    --backgroundColor1: rgb(34, 34, 34);
+    font-family: 'trebuchet ms', sans-serif;
+    --backgroundColor1: rgb(85, 67, 189);
+    --backgroundColor2: rgb(63, 23, 128);
     --titleTextColor: rgb(195, 218, 94);
 }
 
@@ -16,5 +17,8 @@
 .title
 {
     color: #c3da5e;
-    background: linear-gradient(45deg, #000000, #434343);
+    padding: 10px;
+    background: linear-gradient(45deg, var(--backgroundColor1), var(--backgroundColor2));
+    border-radius: 10px 5px;
+
 }
